@@ -1,2 +1,3 @@
 # Musics
-Just some study about different patterns of music 
+I'm just a tabla player trying to get hold of the musics
+Hello everyone
